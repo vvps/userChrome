@@ -6,4 +6,7 @@ userChome.css is a browser customisation file for Firefox. Place it in your Prof
 
 ## Contribute
 
-Fork -- add your file and description -- create Pull request
+- fork repo
+- create a folder
+- add your file and description
+- create a pull request
