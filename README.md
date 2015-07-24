@@ -1,2 +1,3 @@
 # userChrome
-userChome.css for Firefox customisation
+
+userChome.css is a browser customisation file for Firefox.
