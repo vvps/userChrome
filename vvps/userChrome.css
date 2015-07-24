@@ -1,0 +1,26 @@
+/*
+ * Do not remove the @namespace line -- it's required for correct functioning
+ */
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); 
+
+#urlbar, #searchbar .searchbar-textbox {
+	background-color: #000000 !important;
+	color: #E66000 !important;
+	font-family: Monospace !important; 
+	font-size: 11pt;
+	font-style: none 
+}
+
+
+tab[selected="true"] { 
+	min-width: 300px !important; 
+}
+
+
+/* Tab font tweaks */
+.tab-text {
+	font-family: "Tahoma", Sans-Serif !important; 
+	font-size: 8pt;
+	text-transform: none;
+	text-align: center;
+}
